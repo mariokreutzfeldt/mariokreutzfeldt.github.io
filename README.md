@@ -1,1 +1,1 @@
-# mariokreutzfeldt.githut.io
+# mariokreutzfeldt.github.io
